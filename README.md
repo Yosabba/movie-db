@@ -1,4 +1,4 @@
-#Backend API for movie database
+# Backend API for Movie Database
 
 to get things started 
 
